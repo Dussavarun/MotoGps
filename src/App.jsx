@@ -181,7 +181,7 @@ const App = () => {
                   </ul>
                   <div className="flex justify-between items-center">
                     <button className="bg-blue-900 text-white px-4 py-2 rounded-lg hover:bg-blue-800 transition-colors whitespace-nowrap !rounded-button cursor-pointer">
-                      Learn More
+                      Buy Now
                     </button>
                     <div className="flex items-center cursor-pointer">
                       <input
